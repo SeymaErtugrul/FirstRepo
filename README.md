@@ -1,3 +1,3 @@
 #Baslikes
 
--Repo Olıştırma Demme
+-Branch oluştu pr açıldı
